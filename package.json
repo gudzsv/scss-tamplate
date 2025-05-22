@@ -1,0 +1,29 @@
+{
+  "name": "scss-tamplate",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "browserslist": [
+    "cover 99.5%"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "watch": "npx vite build --watch"
+  },
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^7.0.2",
+    "autoprefixer": "^10.4.21",
+    "fast-glob": "^3.3.3",
+    "imagemin": "^9.0.1",
+    "postcss-sort-media-queries": "^5.2.0",
+    "sass": "^1.89.0",
+    "sharp": "^0.34.2",
+    "vite": "^6.3.5",
+    "vite-plugin-image-optimizer": "^1.1.8"
+  },
+  "dependencies": {
+    "body-scroll-lock": "^4.0.0-beta.0"
+  }
+}
