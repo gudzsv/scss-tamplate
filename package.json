@@ -13,7 +13,6 @@
     "watch": "npx vite build --watch"
   },
   "devDependencies": {
-    "@fullhuman/postcss-purgecss": "^7.0.2",
     "autoprefixer": "^10.4.21",
     "fast-glob": "^3.3.3",
     "imagemin": "^9.0.1",
